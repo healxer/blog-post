@@ -1,4 +1,4 @@
-# Blog post
+# Typography Blog Post
 
 ## 🎬 Live
 See the simple blog post: 
