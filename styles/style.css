@@ -1,10 +1,7 @@
-* {
+body {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-}
-
-body {
     font-family: Mukta, sans-serif;
     font-size: 16px;
     letter-spacing: 0.031rem;
@@ -36,4 +33,35 @@ h6 {
 .blog-title {
     color:  #e95400;
     letter-spacing: 0.094rem;
+}
+
+.headline {
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 0;
+    margin: 2.5rem 0;
+}
+
+.text-transform {
+    color: #e95400;
+}
+
+h2 {
+    font-size: 3.125rem;
+    font-weight: 500;
+    letter-spacing: -0.031rem;
+}
+
+.quote {
+    font-style: italic;
+    font-size: 0.875rem;
+    border-left: 2px solid #e95400;
+    padding-left: 1rem;
+    margin: 2rem 0 2rem 2rem;
+}
+
+.quote-author {
+    display: block;
+    font-weight: 700;
+    margin-left: 0.875rem;
 }
