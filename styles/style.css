@@ -48,6 +48,11 @@ h6 {
     letter-spacing: 0.016rem;
 }
 
+code {
+    color: #e95400;
+    font-weight: 700;
+}
+
 .content {
     max-width: 900px;
     margin: 0 auto;
@@ -67,7 +72,7 @@ h6 {
 }
 
 .blog-title {
-    color:  #e95400;
+    color: #e95400;
     letter-spacing: 0.094rem;
 }
 
