@@ -101,3 +101,30 @@ code {
     font-weight: 700;
     margin-left: 0.875rem;
 }
+
+.footer {
+    background-color: #863ae8;
+}
+
+.footer__list {
+    list-style: none;
+    text-align: center;
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 1.75rem;
+}
+
+.footer__item {
+    display: inline;
+    padding: 0 1rem;
+}
+
+.footer__link {
+    text-decoration: none;
+    color: #fff;
+}
+
+.footer__link:hover {
+    text-decoration: underline;
+}
