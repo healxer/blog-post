@@ -1,7 +1,7 @@
 # Typography Blog Post
 
 ## 🎬 Live
-See the simple blog post: 
+See the simple blog post: https://healxer.github.io/typography-blog-post/
 
  
 ## 🖥️ Technologies
